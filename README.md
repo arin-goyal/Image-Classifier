@@ -21,8 +21,6 @@ Here is a screenshot of the application in action. The model correctly identifie
 [Image of a Streamlit web app in action]
 ![Streamlit App Demo](demo.png)
 
-*(To add your own image here, take a screenshot of your running app, save it as `demo.png` in your project folder, and it will appear here automatically.)*
-
 ## 🛠️ Technologies Used
 
 -   **Backend & Model:** TensorFlow, Keras
