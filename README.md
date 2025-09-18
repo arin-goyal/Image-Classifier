@@ -16,7 +16,7 @@ A simple and interactive web application built with Streamlit and TensorFlow tha
 
 ## 🚀 Live Demo
 
-Here is a screenshot of the application in action. The model correctly identifies the uploaded image of a truck.
+Here is a screenshot of the application in action. The model correctly identifies the uploaded image of a horse.
 
 [Image of a Streamlit web app in action]
 ![Streamlit App Demo](demo.png)
